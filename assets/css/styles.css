@@ -1,0 +1,43 @@
+/* styles for table and rows */
+table {
+    border-collapse: separate;
+    border-spacing: 0;
+}
+
+.slot {
+    height: 4rem;
+}
+
+.time_slot {
+    width: 10%;
+    border-top: 2px #DDDDDD dotted;
+    border-bottom: 2px #DDDDDD dotted;
+}
+
+.event_slot {
+    width: 80%;
+    border-top: 2px #DDDDDD solid;
+    border-bottom: 2px #DDDDDD solid;
+    border-left: 4px #DDDDDD solid;
+    padding-left: 1rem;
+    background-color: #CCCCCC;
+}
+
+.save_slot {
+    border: 2px #DDDDDD solid;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #5fffc7; 
+}
+
+
+/* styles for buttons */
+.btn-primary {
+    background-color: #ff7a5f;
+    border-color: #ff7a5f;
+}
+
+

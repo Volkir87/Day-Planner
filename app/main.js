@@ -1,1 +1,1 @@
-window.alert("I started!")
+//window.alert("I started!")
