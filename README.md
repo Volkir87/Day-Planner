@@ -17,7 +17,7 @@ The user can enter and save events for current and future hours. Events will be 
 
 When the new day comes, all old events are cleared from the storage. 
 
-![picture](assets/images/Day_Planner_Screenshot.png)
+![picture](assets/images/Day_Planner_Screenshot.PNG)
 
 Link to app: 
 https://volkir87.github.io/Day-Planner
